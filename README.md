@@ -6,3 +6,12 @@ Welcome to my collection of machine learning projects. This repository is organi
 
 ## 📁 Folder Structure
 
+purajith/
+├── Classification/
+│ └── [project folders or notebooks]
+├── Regression/
+│ └── [project folders or notebooks]
+├── UnsupervisedLearning/
+│ └── Customer_segmentation/
+│ └── [scripts/notebooks]
+├── README.md
