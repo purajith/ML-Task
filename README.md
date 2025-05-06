@@ -6,7 +6,7 @@ Welcome to my collection of machine learning projects. This repository is organi
 
 ## 📁 Folder Structure
 
-purajith/
+purajith/ML-Task
 
 ├── Classification/
 
