@@ -1,0 +1,58 @@
+2025-08-15 16:04:51,941  - INFO - Home endpoint accessed
+2025-08-15 16:05:03,081  - INFO - Home endpoint accessed
+2025-08-15 16:05:12,384  - INFO - Login attempt for userid: string 
+2025-08-15 16:05:12,384  - INFO - Loging rsult :{result}
+2025-08-15 16:05:25,850  - INFO - Login attempt for userid: 1234 
+2025-08-15 16:05:25,850  - INFO - Loging rsult :{result}
+2025-08-15 16:05:34,936  - INFO - Received input values: {values}
+2025-08-15 16:05:34,939  - ERROR - Error during prediction: 'Timestamp'
+2025-08-15 16:06:29,728  - INFO - Received input values: {values}
+2025-08-15 16:06:29,732  - ERROR - Error during prediction: 'Timestamp'
+2025-08-15 16:07:32,355  - INFO - Received input values: {values}
+2025-08-15 16:07:32,363  - ERROR - Error during prediction: 'Timestamp'
+2025-08-16 10:22:46,067  - INFO - Home endpoint accessed
+2025-08-16 10:23:15,325  - INFO - Home endpoint accessed
+2025-08-16 10:23:23,990  - INFO - Login attempt for userid: string 
+2025-08-16 10:23:23,991  - INFO - Loging rsult :{result}
+2025-08-16 10:23:34,134  - INFO - Login attempt for userid: 1234 
+2025-08-16 10:23:34,135  - INFO - Loging rsult :{result}
+2025-08-16 10:24:05,407  - INFO - Received input values: {values}
+2025-08-16 10:24:05,625  - ERROR - Error during prediction: 'IP_Address_Flag'
+2025-08-16 10:24:24,022  - INFO - Received input values: {values}
+2025-08-16 10:24:24,150  - ERROR - Error during prediction: 'IP_Address_Flag'
+2025-08-16 10:27:59,705  - INFO - Received input values: {values}
+2025-08-16 10:27:59,708  - ERROR - Error during prediction: 'Timestamp'
+2025-08-16 10:28:23,535  - INFO - Received input values: {values}
+2025-08-16 10:28:23,537  - ERROR - Error during prediction: 'Timestamp'
+2025-08-16 10:30:38,676  - INFO - Received input values: {values}
+2025-08-16 10:30:38,678  - ERROR - Error during prediction: 'Timestamp'
+2025-08-16 10:30:53,604  - INFO - Received input values: {values}
+2025-08-16 10:30:53,606  - ERROR - Error during prediction: 'Timestamp'
+2025-08-16 10:31:31,834  - INFO - Received input values: {values}
+2025-08-16 10:31:32,059  - ERROR - Error during prediction: 'IP_Address_Flag'
+2025-08-16 10:33:16,427  - INFO - Received input values: [{'Failed_Transaction_Count_7d': 0, 'Risk_Score': 0, 'IP_Address_Flag': 0, 'Transaction_Amount': 0.0, 'Previous_Fraudulent_Activity': 0, 'Timestamp': '2025-08-10 14:25:00'}]
+2025-08-16 10:33:16,427  - ERROR - Error during prediction: Must pass 2-d input. shape=(1, 1, 6)
+2025-08-16 10:34:45,261  - INFO - Received input values: [{'Failed_Transaction_Count_7d': 0, 'Risk_Score': 0, 'IP_Address_Flag': 0, 'Transaction_Amount': 0.0, 'Previous_Fraudulent_Activity': 0, 'Timestamp': '2025-08-10 14:25:00'}]
+2025-08-16 10:34:45,261  - ERROR - Error during prediction: Must pass 2-d input. shape=(1, 1, 6)
+2025-08-16 10:37:00,600  - ERROR - Error during prediction: 'IP_Address_Flag_log'
+2025-08-16 10:37:21,390  - ERROR - Error during prediction: 'IP_Address_Flag_log'
+2025-08-16 18:58:28,662  - ERROR - Error during predictio: 'int' object is not callable
+2025-08-16 18:59:41,197  - ERROR - Error during predictio: 'int' object is not callable
+2025-08-16 19:08:31,338  - ERROR - Error during predictio: 'int' object is not callable
+2025-08-16 19:08:56,466  - ERROR - Error during predictio: 'int' object is not callable
+2025-08-16 19:09:23,663  - ERROR - Error during predictio: 'int' object is not callable
+2025-08-16 19:12:46,284  - ERROR - Error during predictio: 'int' object is not callable
+2025-08-16 19:13:40,293  - ERROR - Error during predictio: 'int' object is not callable
+2025-08-16 19:14:39,759  - INFO - Received input values:    Failed_Transaction_Count_7d  Risk_Score  IP_Address_Flag  Transaction_Amount  Previous_Fraudulent_Activity            Timestamp
+0                            0           0                0                   0                             0  2023-08-14 19:30:00
+2025-08-16 19:14:39,789  - INFO - predictiopn result : [0]
+2025-08-16 19:20:40,341  - INFO - login attempt for userid : 1234
+2025-08-16 19:20:40,341  - INFO - Login Result : login successfully 
+2025-08-16 19:20:52,231  - INFO - Received input values:    Failed_Transaction_Count_7d  Risk_Score  IP_Address_Flag  Transaction_Amount  Previous_Fraudulent_Activity            Timestamp
+0                            1           5                0                   5                             0  2025-08-16 12:00:00
+2025-08-16 19:20:52,309  - INFO - predictiopn result : [1]
+2025-08-16 19:23:36,091  - INFO - login attempt for userid : 1234
+2025-08-16 19:23:36,091  - INFO - Login Result : login successfully 
+2025-08-16 19:23:41,422  - INFO - Received input values:    Failed_Transaction_Count_7d  Risk_Score  IP_Address_Flag  Transaction_Amount  Previous_Fraudulent_Activity            Timestamp
+0                            0           0                0                   0                             0  2025-08-16 12:00:00
+2025-08-16 19:23:41,471  - INFO - predictiopn result : [0]

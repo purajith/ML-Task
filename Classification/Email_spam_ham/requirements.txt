@@ -1,0 +1,8 @@
+pandas
+nltk
+scikit-learn
+sentence_transformers
+matplotlib
+seaborn
+fastapi
+uvicorn
